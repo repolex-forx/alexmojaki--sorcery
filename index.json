@@ -1,0 +1,11 @@
+{
+  "org": "alexmojaki",
+  "repo": "sorcery",
+  "versions": [
+    {
+      "commit": "65e976d66064dbdd498e29715578b1e5fdad43d5",
+      "tag": "v0.2.2",
+      "parsed_at": "2026-10-19T12:24:45.860980+00:00"
+    }
+  ]
+}
