@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "alexmojaki",
+  "repo": "sorcery",
+  "versions": [
+    {
+      "commit": "65e976d66064dbdd498e29715578b1e5fdad43d5",
+      "parsed_at": "2026-10-19T12:21:57.614670+00:00",
+      "tag": "v0.2.2",
+      "filetree": "filetree/65e976d66064dbdd498e29715578b1e5fdad43d5.nq.gz",
+      "blobs": [
+        "blob/b6263bbda1d5c397d31601566ed6571c33b2b565.nq.gz",
+        "blob/7f1a1763ca9cebc7bc16576d353d3284ee5d3c7d.nq.gz",
+        "blob/60c24e571b6dc7bea56e7cf45abdc56eeee44a2a.nq.gz",
+        "blob/3d5c53fa1050bfcaec410ca849290a8e0bf2c52a.nq.gz",
+        "blob/85c22a540287f67bffc0c309269c0f4b6c4989eb.nq.gz",
+        "blob/646118bf49e2c8628e912fb529377f35ab9884f2.nq.gz",
+        "blob/115763923d6562b9315049041c1ac9af9c1cdcc8.nq.gz",
+        "blob/10ef57259eeefee91f926ef13b448dbfb2f1eec7.nq.gz",
+        "blob/748b6c0597d6345a91b0066b9f6df41142b2e77f.nq.gz",
+        "blob/80d368191067f59966807279fd9b49d4c859f35d.nq.gz",
+        "blob/6006776dbcf6d766b4ffe7e17fb31929fa692c31.nq.gz",
+        "blob/0a4b53a2005f2bad269762cc4316c3aba98518b1.nq.gz",
+        "blob/f0c1ac84a64f29c6b0af412ba2f0f4bc7d55a9e0.nq.gz",
+        "blob/9c26eafe3746cd5615e8f51d042e7cc922544682.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
